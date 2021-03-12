@@ -1,6 +1,6 @@
 # from arquivo import Classe
 from clientes import Cliente
-from contas import Conta
+from contas import Conta, ContaEspecial
 from banco import Banco
 
 
